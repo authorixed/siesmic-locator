@@ -1,4 +1,4 @@
-# Group-Project-1
+# Seismic-Locator
 
 Seismic Locator
 
@@ -36,28 +36,11 @@ Usage
 	4.	Submit the coordinates to get detailed location information.
 	5.	View recent searches at the bottom of the page.
 
-Folder Structure :
-
-Group-Project-1/
-├── css/
-│   └── styles.css
-├── js/
-│   └── script.js
-├── index.html
-└── README.md
-
-SCREENSHOT
-
 Future Development
 
 	•	Additional Filters: Add options for users to filter earthquakes by date, magnitude, or region.
 	•	Enhanced Mapping: Integrate a mapping service to visually plot earthquake locations.
 	•	Notifications: Implement a notification system to alert users of significant seismic events.
-
-Links
-
-	•	Deployed Application URL - https://jimil555.github.io/Group-Project-1/
-	•	GitHub Repository - https://github.com/JimiL555/Group-Project-1.git
 
 Contributors
 
@@ -69,8 +52,3 @@ Contributors
 	Anu Kizer / Josh Levy - Concept, Design & Functionality
 	Daniel Soto / Jimi Liapis - Concept, Functionality & Presentation
 	Each 4 members will be presenting a section of the project.
-
-
-License:
-
-This project is licensed under the Seismic Locator LLC License.
